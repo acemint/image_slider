@@ -2,16 +2,16 @@ How Does it Work:
 - Compares 2 images side by side using a slider
 
 How to Use:
-- Place the 2 images that you want to compare in the folder named "image" 
-  (The "image" folder can be found inside "dist")
+1. Place the 2 images that you want to compare in the image folder
+  (The "image" folder can be found inside dist)
 
-- Open the image_slider.exe
+2. Open the image_slider.exe in the dist folder
 
-- The program will first ask the user to input 2 filename (you also need to include the file extension)
+3. The program will first ask the user to input 2 filename (you also need to include the file extension)
 
-- After the program detects the the file, then you can start using it
-  (If it doesn't start, then make sure that the filename are already correct)
+4. After the program detects the the file, then you can start using it
+  (If it doesn't start, make sure that the file is placed at the correct folder; refer to number 1)
+  (If it still doesn't start, check whether the filename are correct)
 
 
 Notice: You can only slide from the left side of the image which can be seen at test.png as an example
-
