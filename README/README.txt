@@ -1,3 +1,6 @@
+You can see how it works here:
+https://www.youtube.com/watch?v=p8oE5JaaUik
+
 How Does it Work:
 - Compares 2 images side by side using a slider
 
